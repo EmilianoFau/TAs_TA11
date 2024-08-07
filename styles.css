@@ -3,7 +3,7 @@ p.odd {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p:nth-of-type(2) {
+p.cool {
     font-size: 24px;
 }
 
