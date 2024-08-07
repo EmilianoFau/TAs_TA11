@@ -1,4 +1,4 @@
-p {
+p.odd {
     background-color: lightpink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
